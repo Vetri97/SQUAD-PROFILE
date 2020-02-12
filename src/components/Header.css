@@ -1,0 +1,29 @@
+.header{
+    background-color:#3D405B;
+    height: 100px;
+    text-align: center; 
+
+    
+}
+
+      .proftxt{
+        color:#92E4B2;
+        font-size: 21px !important;
+        font-weight: lighter !important;
+        /* letter-spacing: 1px; */
+        }
+        .squadtxt
+        {
+            color:#92E4B2;
+            font-size: 21px;
+            letter-spacing: 1px;
+        }
+
+        /* .passwordheader{
+            padding-top: 50px;
+        }  */
+
+        .headtxt{
+           padding-top: 15px;
+
+        }
